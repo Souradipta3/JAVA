@@ -16,8 +16,6 @@ display the maximum value column wise.
 10.Write a Java Program to convert a string to an integer in Java.
 11.Write a Java program to implement Linear search.
 12.Write a Java program to implement Selection sort.
-Course Name: Object Oriented Programming Language Lab Course Code: PCC-CS593
-Semester: 3rd Year, 5th Sem., B.Tech (CSE) Academic Session: 2024-25
 ____________________________________________________________________________________________
 Lab Assignment - II
 Classes and Objects
